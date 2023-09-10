@@ -4,8 +4,8 @@ Hi, I'm Mahmoud Usama ![](https://user-images.githubusercontent.com/18350557/176
 A passionate Software Development Engineer in Test with more than 5 years of experience.
 -------------------------------------------------
 
-* 👨‍  Senior Test Automation Engineer at _VOIS (Vodafone Intelligent Solutions)
-* 👨‍🏫   Test Automation speaker at several webinars and events.
+* 👨‍  Test Team Lead Automation Engineer at _VOIS (Vodafone Intelligent Solutions)
+* 👨‍🏫  Test Automation speaker at several webinars and events.
 * 📃  Holding several certificates in Agile Development, Software Quality Control, and Test Automation.
 * 🌍  Based in Cairo, Egypt
 
