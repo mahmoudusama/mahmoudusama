@@ -9,6 +9,7 @@ With over 7 years of experience in test automation, software testing, and servic
 * 📃  Holding several certificates in Agile Development, Software Quality Control, and Test Automation.
 * 🌍  Based in Cairo, Egypt
 
+-------------------------------------------------
 ### Skills
 
 <p align="left">
@@ -21,11 +22,13 @@ With over 7 years of experience in test automation, software testing, and servic
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="36" height="36"/> </a>
 </p>
 
-
-### Socials
+-------------------------------------------------
+### Connect with me
 
 <p align="left">
 <a href="https://www.github.com/mahmoudusama" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/mahmoudusama" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 
 </p>
+I’m looking forward to collaborating on projects that are at the intersection of technology and social good. Let’s connect! 🌍
+
