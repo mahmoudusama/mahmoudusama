@@ -1,7 +1,7 @@
 Hi, I'm Mahmoud Usama !
 ===================================================================================================================================
 
-With over 7 years of experience in test automation, software testing, and service delivery, I am deeply passionate about crafting technological solutions that seamlessly integrate software development with service delivery. My expertise lies in bridging the gap between these domains to enhance efficiency and deliver exceptional results.
+With over 7 years of experience in test automation, software testing, and service delivery, I'm deeply passionate about crafting technological solutions that seamlessly integrate software development with service delivery. My expertise lies in bridging the gap between these domains to enhance efficiency and deliver exceptional results.
 
 -------------------------------------------------
 
